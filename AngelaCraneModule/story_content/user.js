@@ -2,155 +2,149 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6PlcDOfVpye":
+      case "6GXCTMLPFtS":
         Script1();
         break;
-      case "5UgyiuBJtSf":
+      case "6hs6vGyIzQA":
         Script2();
         break;
-      case "6oGKxHx2H8H":
+      case "6QNTxwXvZv2":
         Script3();
         break;
-      case "5cbIJYmc6hT":
+      case "5yZrVNRGuIK":
         Script4();
         break;
-      case "6Muwrb2dTkB":
+      case "6JszwK8Z1hD":
         Script5();
         break;
-      case "5VxeBxdsx6f":
+      case "5jGZOxXyvTb":
         Script6();
         break;
-      case "5WXrqjcWbHL":
+      case "5oioGzMvbhP":
         Script7();
         break;
-      case "6cboD7GEJpR":
+      case "6J9eSrjwuw9":
         Script8();
         break;
-      case "6cyn2iq0aJ9":
+      case "5aQZ9b6QlvY":
         Script9();
         break;
-      case "5WSYXgyCotX":
+      case "6JDkgpKYJft":
         Script10();
         break;
-      case "5dboPcqnHVr":
+      case "5vwHRZr8TTU":
         Script11();
         break;
-      case "6Pe7wahzTI8":
+      case "6BUi2b7VjuS":
         Script12();
         break;
-      case "6WU2rEmneHB":
+      case "6F54SObp2c2":
         Script13();
         break;
-      case "6bHMm0slj2R":
+      case "6YQzfDx9KCf":
         Script14();
         break;
-      case "6Kx01uGYBj0":
+      case "5b3jj9hhcWz":
         Script15();
         break;
-      case "5Xp14XQogBk":
+      case "6GPHWKQKjsV":
         Script16();
         break;
-      case "5vIzBuZ9veX":
+      case "6gnMyRGEDtk":
         Script17();
         break;
-      case "5Z3p0btrNV1":
+      case "6kVOI5XXApT":
         Script18();
         break;
-      case "6oT7UEyx0GC":
+      case "6hfSYSa78wX":
         Script19();
         break;
-      case "6oW78dtquvt":
+      case "5kcwOGf7eML":
         Script20();
         break;
-      case "6emskOiZgCj":
+      case "5wd8qP6sfRD":
         Script21();
         break;
-      case "6LvOsYXFwlU":
+      case "6CfygF0Ri24":
         Script22();
         break;
-      case "64mjwEVUlQ6":
+      case "6df90KCQcCO":
         Script23();
         break;
-      case "6AwsEJhVjEP":
+      case "5trjtfpkbFo":
         Script24();
         break;
-      case "6FAHLfBX4eX":
+      case "6GZxQ4LcIkp":
         Script25();
         break;
-      case "5dL8rvF4imX":
+      case "6aucrgukrEI":
         Script26();
         break;
-      case "5e9aSCbDloe":
+      case "6RakcnD9rcC":
         Script27();
         break;
-      case "6Ffl99WBlo4":
+      case "68Na9RNIL6u":
         Script28();
         break;
-      case "6Ockci3xYrW":
+      case "6q7CExqUoqI":
         Script29();
         break;
-      case "5t4UHjpy5kF":
+      case "5tY4EBRwhjb":
         Script30();
         break;
-      case "6oq7s92vb9S":
+      case "6LRzj29tqhd":
         Script31();
         break;
-      case "64aqKVNG5t7":
+      case "6jyTEQG1MSL":
         Script32();
         break;
-      case "5ckJgRWytMU":
+      case "5qSqazK8m9H":
         Script33();
         break;
-      case "5mJnBjyqZww":
+      case "5u5drBKFECs":
         Script34();
         break;
-      case "6QDcVPZeBAk":
+      case "6UpHDYPfKBB":
         Script35();
         break;
-      case "67tnizvRi26":
+      case "64H780lJxNx":
         Script36();
         break;
-      case "5cGQf5hVaiW":
+      case "6D7SfbyDXMH":
         Script37();
         break;
-      case "5eBSLpjExnw":
+      case "6XkT7zyP0Dw":
         Script38();
         break;
-      case "5vDw3n798tK":
+      case "5pFpiFpwoVq":
         Script39();
         break;
-      case "5vPjFWQJwdn":
+      case "6CXG6Pme62H":
         Script40();
         break;
-      case "6GtDqSApHxn":
+      case "6TjRZAxQyNv":
         Script41();
         break;
-      case "5wxM4gmuTuJ":
+      case "5iwwiddLtsn":
         Script42();
         break;
-      case "6H3eAo8q2PT":
+      case "5farhNtaUiQ":
         Script43();
         break;
-      case "6aZ7H7x78Ze":
+      case "6AOpWqO5xJZ":
         Script44();
         break;
-      case "6dFwGjrFwMM":
+      case "6VbKAOEk7JS":
         Script45();
         break;
-      case "6in0pQSezGQ":
+      case "6FUZGt7LRX0":
         Script46();
         break;
-      case "5YN8BUBUKgb":
+      case "64mfoJXCf1z":
         Script47();
         break;
-      case "6mcy8NMCrLC":
+      case "626PpvjpOYK":
         Script48();
-        break;
-      case "5qs96a68JkQ":
-        Script49();
-        break;
-      case "5rB9hlEuGt0":
-        Script50();
         break;
   }
 }
@@ -2788,118 +2782,6 @@ GoInFullscreen($("#preso").get(0));
 }
 
 function Script48()
-{
-  function add_script(scriptURL,oID) {
-     var scriptEl = document.createElement("script");
-     var head=document.getElementsByTagName('head')[0];
-      scriptEl.type = "text/javascript";      
-      scriptEl.src = scriptURL;      
-      scriptEl.id=oID;      
-      head.appendChild(scriptEl);}
-
-//only want to add these once!
-if(document.getElementById('jquery')==null){
-add_script("https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js","jquery");
-
-}
-
-
-/* Get into full screen */
-function GoInFullscreen(preso) {
-	if(preso.requestFullscreen)
-		preso.requestFullscreen();
-	else if(preso.mozRequestFullScreen)
-		preso.mozRequestFullScreen();
-	else if(preso.webkitRequestFullscreen)
-		preso.webkitRequestFullscreen();
-	else if(preso.msRequestFullscreen)
-		preso.msRequestFullscreen();
-}
-
-/* Get out of full screen */
-function GoOutFullscreen() {
-	if(document.exitFullscreen)
-		document.exitFullscreen();
-	else if(document.mozCancelFullScreen)
-		document.mozCancelFullScreen();
-	else if(document.webkitExitFullscreen)
-		document.webkitExitFullscreen();
-	else if(document.msExitFullscreen)
-		document.msExitFullscreen();
-}
-
-/* Is currently in full screen or not */
-function IsFullScreenCurrently() {
-	var full_screen_preso = document.fullscreenpreso || document.webkitFullscreenpreso || document.mozFullScreenpreso || document.msFullscreenpreso || null;
-	
-	// If no preso is in full-screen
-	if(full_screen_preso === null)
-		return false;
-	else
-		return true;
-}
-
-GoOutFullscreen();
-
-}
-
-function Script49()
-{
-  function add_script(scriptURL,oID) {
-     var scriptEl = document.createElement("script");
-     var head=document.getElementsByTagName('head')[0];
-      scriptEl.type = "text/javascript";      
-      scriptEl.src = scriptURL;      
-      scriptEl.id=oID;      
-      head.appendChild(scriptEl);}
-
-//only want to add these once!
-if(document.getElementById('jquery')==null){
-add_script("https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js","jquery");
-
-}
-
-
-/* Get into full screen */
-function GoInFullscreen(preso) {
-	if(preso.requestFullscreen)
-		preso.requestFullscreen();
-	else if(preso.mozRequestFullScreen)
-		preso.mozRequestFullScreen();
-	else if(preso.webkitRequestFullscreen)
-		preso.webkitRequestFullscreen();
-	else if(preso.msRequestFullscreen)
-		preso.msRequestFullscreen();
-}
-
-/* Get out of full screen */
-function GoOutFullscreen() {
-	if(document.exitFullscreen)
-		document.exitFullscreen();
-	else if(document.mozCancelFullScreen)
-		document.mozCancelFullScreen();
-	else if(document.webkitExitFullscreen)
-		document.webkitExitFullscreen();
-	else if(document.msExitFullscreen)
-		document.msExitFullscreen();
-}
-
-/* Is currently in full screen or not */
-function IsFullScreenCurrently() {
-	var full_screen_preso = document.fullscreenpreso || document.webkitFullscreenpreso || document.mozFullScreenpreso || document.msFullscreenpreso || null;
-	
-	// If no preso is in full-screen
-	if(full_screen_preso === null)
-		return false;
-	else
-		return true;
-}
-
-GoInFullscreen($("#preso").get(0));
-
-}
-
-function Script50()
 {
   function add_script(scriptURL,oID) {
      var scriptEl = document.createElement("script");

@@ -16,7 +16,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Quantum Numbers" />
+              <option name="title_text" value="Electron Configurations" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1245,40 +1245,35 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.62VwO8bpWDA" displaytext="Quantum Numbers" expand="true" type="slide">
+        <slidelink slideid="_player.62VwO8bpWDA" displaytext="Electron Configurations" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.62VwO8bpWDA.6mo45NdGUZy" displaytext="An Introduction to Quantum Mechanics" expand="false" type="slide" />
-            <slidelink slideid="_player.62VwO8bpWDA.5ltdxMQ2C91" displaytext="Defining the Quantum Numbers" expand="false" type="slide" />
-            <slidelink slideid="_player.62VwO8bpWDA.5y7wSuczISB" displaytext="Example: Labelling Orbitals based on their Quantum Numbers" expand="false" type="slide" />
-            <slidelink slideid="_player.62VwO8bpWDA.6rRDTIEkl63" displaytext="Quiz Yourself! #1" expand="false" type="slide" />
-            <slidelink slideid="_player.62VwO8bpWDA.5hvzJPx51YK" displaytext="Quiz Yourself! #2a" expand="false" type="slide" />
-            <slidelink slideid="_player.62VwO8bpWDA.5xQ2ky3RyuI" displaytext="Quiz Yourself! #2b" expand="false" type="slide" />
-            <slidelink slideid="_player.62VwO8bpWDA.5Wtph0yNBMA" displaytext="Quiz Yourself! #3" expand="false" type="slide" />
-            <slidelink slideid="_player.62VwO8bpWDA.691W68zGrT3" displaytext="Quiz Yourself! #4" expand="false" type="slide" />
-            <slidelink slideid="_player.62VwO8bpWDA.5lUbOfAdHGy" displaytext="Quiz Yourself! #5" expand="false" type="slide" />
-            <slidelink slideid="_player.62VwO8bpWDA.6L7923SG5A2" displaytext="Quiz Yourself! #6" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5UlVkhIQwzz" displaytext="Orbital Shapes" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5UlVkhIQwzz.6At1gnkB4R3" displaytext="Principles of Drawing Orbitals" expand="false" type="slide" />
-            <slidelink slideid="_player.5UlVkhIQwzz.6L8u7uJyh3k" displaytext="Orbital shapes: How to draw 2D cross section diagrams" expand="false" type="slide" />
-            <slidelink slideid="_player.5UlVkhIQwzz.5reo9saPzY8" displaytext="Quiz Yourself! #1" expand="false" type="slide" />
-            <slidelink slideid="_player.5UlVkhIQwzz.6SIdQq5aeui" displaytext="Quiz Yourself! #2" expand="false" type="slide" />
-            <slidelink slideid="_player.5UlVkhIQwzz.6We6uHC4vi7" displaytext="Quiz Yourself! #3" expand="false" type="slide" />
-            <slidelink slideid="_player.5UlVkhIQwzz.6TlqXcYnn6x" displaytext="Quiz Yourself! #4" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.6mo45NdGUZy" displaytext="An Introduction to Orbital Filling Principles" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.5ltdxMQ2C91" displaytext="Relative Energies of Atomic Orbitals" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.5y7wSuczISB" displaytext="Example: Determining relative energy of atomic orbitals" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.5rcnFgDveGo" displaytext="Example: Determining the magnetism of an element" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.5hvzJPx51YK" displaytext="Quiz Yourself! #1" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.6KFmhg4y3ty" displaytext="Quiz Yourself! #2" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.5xQ2ky3RyuI" displaytext="Quiz Yourself! #3" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.62yo5agS7gf" displaytext="Writing Full Electron Configurations" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.6CSCPQnbhfX" displaytext="Writing Abbreviated Electron Configurations" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.5ZHkLQ54aaL" displaytext="Quiz Yourself! #4" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.6IKrpEkeFJV" displaytext="Quiz Yourself! #5" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.6GxFH24Ti8S" displaytext="Quiz Yourself! #6" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.6enN0U7THEl" displaytext="Electron configurations of s and p block ions" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.6rJKAsZb3FL" displaytext="Core versus Valence Electrons" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.5l6r4A68XD0" displaytext="Quiz Yourself! #7" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.6r717AIsKEH" displaytext="Quiz Yourself! #8" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.6R2r0AwxWp2" displaytext="Quiz Yourself! #9" expand="false" type="slide" />
+            <slidelink slideid="_player.62VwO8bpWDA.5iRjzjht0i6" displaytext="Quiz Yourself! #10" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.61kYEeKS17E" displaytext="Check Your Understanding" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.61kYEeKS17E.5XIuEhrNnuv" displaytext="Problem 1" expand="false" type="slide" />
-            <slidelink slideid="_player.61kYEeKS17E.5bivQbeZ8Nc" displaytext="Problem 2" expand="false" type="slide" />
-            <slidelink slideid="_player.61kYEeKS17E.5pssfdRil8R" displaytext="Problem 3" expand="false" type="slide" />
-            <slidelink slideid="_player.61kYEeKS17E.5a88MC57dKU" displaytext="Problem 4" expand="false" type="slide" />
-            <slidelink slideid="_player.61kYEeKS17E.5x1XjyVQy0J" displaytext="Problem 5" expand="false" type="slide" />
-            <slidelink slideid="_player.61kYEeKS17E.6H4jhLvWs4u" displaytext="Problem 6" expand="false" type="slide" />
-            <slidelink slideid="_player.61kYEeKS17E.6MOTtFEFMt0" displaytext="Problem 7" expand="false" type="slide" />
-            <slidelink slideid="_player.61kYEeKS17E.5mU1u0Bn9qb" displaytext="Problem 8" expand="false" type="slide" />
+            <slidelink slideid="_player.61kYEeKS17E.5bivQbeZ8Nc" displaytext="Problem 1" expand="false" type="slide" />
+            <slidelink slideid="_player.61kYEeKS17E.6OHsWPaoVym" displaytext="Problem 2" expand="false" type="slide" />
+            <slidelink slideid="_player.61kYEeKS17E.5ePcMHTPAsk" displaytext="Problem 3" expand="false" type="slide" />
+            <slidelink slideid="_player.61kYEeKS17E.6fw9bYk1RMJ" displaytext="Problem 4" expand="false" type="slide" />
+            <slidelink slideid="_player.61kYEeKS17E.5mU1u0Bn9qb" displaytext="Problem 5" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6QRPiWo5ekU" displaytext="References" expand="true" type="slide">
